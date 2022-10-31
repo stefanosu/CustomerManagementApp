@@ -1,0 +1,15 @@
+/Users/stefanosugbit/Documents/CustomerManagementApp/bin/Debug/net6.0/CustomerManagementApp
+/Users/stefanosugbit/Documents/CustomerManagementApp/bin/Debug/net6.0/CustomerManagementApp.deps.json
+/Users/stefanosugbit/Documents/CustomerManagementApp/bin/Debug/net6.0/CustomerManagementApp.runtimeconfig.json
+/Users/stefanosugbit/Documents/CustomerManagementApp/bin/Debug/net6.0/CustomerManagementApp.dll
+/Users/stefanosugbit/Documents/CustomerManagementApp/bin/Debug/net6.0/CustomerManagementApp.pdb
+/Users/stefanosugbit/Documents/CustomerManagementApp/obj/Debug/net6.0/CustomerManagementApp.csproj.AssemblyReference.cache
+/Users/stefanosugbit/Documents/CustomerManagementApp/obj/Debug/net6.0/CustomerManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefanosugbit/Documents/CustomerManagementApp/obj/Debug/net6.0/CustomerManagementApp.AssemblyInfoInputs.cache
+/Users/stefanosugbit/Documents/CustomerManagementApp/obj/Debug/net6.0/CustomerManagementApp.AssemblyInfo.cs
+/Users/stefanosugbit/Documents/CustomerManagementApp/obj/Debug/net6.0/CustomerManagementApp.csproj.CoreCompileInputs.cache
+/Users/stefanosugbit/Documents/CustomerManagementApp/obj/Debug/net6.0/CustomerManagementApp.dll
+/Users/stefanosugbit/Documents/CustomerManagementApp/obj/Debug/net6.0/refint/CustomerManagementApp.dll
+/Users/stefanosugbit/Documents/CustomerManagementApp/obj/Debug/net6.0/CustomerManagementApp.pdb
+/Users/stefanosugbit/Documents/CustomerManagementApp/obj/Debug/net6.0/CustomerManagementApp.genruntimeconfig.cache
+/Users/stefanosugbit/Documents/CustomerManagementApp/obj/Debug/net6.0/ref/CustomerManagementApp.dll
